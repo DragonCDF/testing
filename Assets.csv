@@ -1,0 +1,425 @@
+﻿Asset,Property
+ALS,Amp
+ALS,created_time
+ALS,data_set_id
+ALS,description
+ALS,Eqp_Type
+ALS,external_id
+ALS,geo_location
+ALS,HP
+ALS,labels
+ALS,last_updated_time
+ALS,Motor_Model
+ALS,name
+ALS,parent_external_id
+ALS,parent_id
+ALS,Prop_GR
+ALS,Pump_Type
+ALS,root_id
+ALS,Run
+ALS,Seal_Type
+ALS,source
+ALS,Stages
+ALS,Type
+ALS,Vendor
+Completion,created_time
+Completion,data_set_id
+Completion,description
+Completion,external_id
+Completion,geo_location
+Completion,labels
+Completion,last_updated_time
+Completion,name
+Completion,parent_external_id
+Completion,parent_id
+Completion,root_id
+Completion,source
+Completion,Type
+Compressor,created_time
+Compressor,data_set_id
+Compressor,description
+Compressor,external_id
+Compressor,geo_location
+Compressor,labels
+Compressor,last_updated_time
+Compressor,name
+Compressor,parent_external_id
+Compressor,parent_id
+Compressor,root_id
+Compressor,source
+Compressor,Type
+Contract,created_time
+Contract,data_set_id
+Contract,description
+Contract,EndDate
+Contract,external_id
+Contract,geo_location
+Contract,labels
+Contract,last_updated_time
+Contract,name
+Contract,parent_external_id
+Contract,parent_id
+Contract,root_id
+Contract,source
+Contract,StartDate
+Contract,SubType
+Contract,Type
+Country,created_time
+Country,data_set_id
+Country,description
+Country,external_id
+Country,geo_location
+Country,labels
+Country,last_updated_time
+Country,name
+Country,parent_external_id
+Country,parent_id
+Country,root_id
+Country,source
+Country,Type
+Decanter,created_time
+Decanter,data_set_id
+Decanter,description
+Decanter,external_id
+Decanter,geo_location
+Decanter,labels
+Decanter,last_updated_time
+Decanter,name
+Decanter,parent_external_id
+Decanter,parent_id
+Decanter,root_id
+Decanter,source
+Decanter,Type
+Engine,created_time
+Engine,data_set_id
+Engine,description
+Engine,external_id
+Engine,geo_location
+Engine,labels
+Engine,last_updated_time
+Engine,name
+Engine,parent_external_id
+Engine,parent_id
+Engine,root_id
+Engine,source
+Engine,Type
+Facility,created_time
+Facility,data_set_id
+Facility,description
+Facility,external_id
+Facility,geo_location
+Facility,labels
+Facility,last_updated_time
+Facility,name
+Facility,parent_external_id
+Facility,parent_id
+Facility,root_id
+Facility,source
+Facility,SubType
+Facility,SurfaceCoordX
+Facility,SurfaceCoordY
+Facility,Type
+Field,created_time
+Field,data_set_id
+Field,description
+Field,external_id
+Field,geo_location
+Field,labels
+Field,last_updated_time
+Field,name
+Field,parent_external_id
+Field,parent_id
+Field,root_id
+Field,source
+Field,SubType
+Field,Type
+Filter,created_time
+Filter,data_set_id
+Filter,description
+Filter,external_id
+Filter,geo_location
+Filter,labels
+Filter,last_updated_time
+Filter,Manufacturer
+Filter,Model
+Filter,name
+Filter,parent_external_id
+Filter,parent_id
+Filter,root_id
+Filter,source
+Filter,Type
+Flotation Cells,created_time
+Flotation Cells,data_set_id
+Flotation Cells,description
+Flotation Cells,external_id
+Flotation Cells,geo_location
+Flotation Cells,labels
+Flotation Cells,last_updated_time
+Flotation Cells,Manufacturer
+Flotation Cells,Model
+Flotation Cells,name
+Flotation Cells,parent_external_id
+Flotation Cells,parent_id
+Flotation Cells,root_id
+Flotation Cells,source
+Flotation Cells,Type
+Generator,created_time
+Generator,data_set_id
+Generator,description
+Generator,external_id
+Generator,geo_location
+Generator,labels
+Generator,last_updated_time
+Generator,Manufacturer
+Generator,Model
+Generator,name
+Generator,parent_external_id
+Generator,parent_id
+Generator,root_id
+Generator,source
+Generator,Type
+Manifold,created_time
+Manifold,data_set_id
+Manifold,description
+Manifold,Design
+Manifold,external_id
+Manifold,geo_location
+Manifold,labels
+Manifold,last_updated_time
+Manifold,Manufacturer
+Manifold,Model
+Manifold,name
+Manifold,Nombre Largo
+Manifold,parent_external_id
+Manifold,parent_id
+Manifold,root_id
+Manifold,source
+Manifold,Start_date
+Manifold,Type
+Meter,created_time
+Meter,data_set_id
+Meter,description
+Meter,external_id
+Meter,geo_location
+Meter,labels
+Meter,last_updated_time
+Meter,name
+Meter,parent_external_id
+Meter,parent_id
+Meter,root_id
+Meter,source
+Meter,Source
+Meter,Type
+Motor,Capacity
+Motor,created_time
+Motor,data_set_id
+Motor,description
+Motor,Diameter
+Motor,external_id
+Motor,geo_location
+Motor,labels
+Motor,last_updated_time
+Motor,Manufacturer
+Motor,Motor_Amperage
+Motor,Motor_Model
+Motor,Motor_Power
+Motor,Motor_Voltage
+Motor,name
+Motor,parent_external_id
+Motor,parent_id
+Motor,Pump_Feature
+Motor,Pump_Series
+Motor,Pump_Type
+Motor,root_id
+Motor,source
+Motor,Type
+Organization Unit 1,created_time
+Organization Unit 1,data_set_id
+Organization Unit 1,description
+Organization Unit 1,external_id
+Organization Unit 1,geo_location
+Organization Unit 1,labels
+Organization Unit 1,last_updated_time
+Organization Unit 1,name
+Organization Unit 1,parent_external_id
+Organization Unit 1,parent_id
+Organization Unit 1,root_id
+Organization Unit 1,source
+Organization Unit 1,Type
+Organization Unit 2,created_time
+Organization Unit 2,data_set_id
+Organization Unit 2,description
+Organization Unit 2,external_id
+Organization Unit 2,geo_location
+Organization Unit 2,labels
+Organization Unit 2,last_updated_time
+Organization Unit 2,name
+Organization Unit 2,parent_external_id
+Organization Unit 2,parent_id
+Organization Unit 2,root_id
+Organization Unit 2,source
+Organization Unit 2,Type
+OrganizationUnit,created_time
+OrganizationUnit,data_set_id
+OrganizationUnit,description
+OrganizationUnit,external_id
+OrganizationUnit,geo_location
+OrganizationUnit,labels
+OrganizationUnit,last_updated_time
+OrganizationUnit,name
+OrganizationUnit,parent_external_id
+OrganizationUnit,parent_id
+OrganizationUnit,root_id
+OrganizationUnit,source
+OrganizationUnit,Type
+Pattern,created_time
+Pattern,data_set_id
+Pattern,description
+Pattern,external_id
+Pattern,geo_location
+Pattern,labels
+Pattern,last_updated_time
+Pattern,name
+Pattern,parent_external_id
+Pattern,parent_id
+Pattern,root_id
+Pattern,source
+Pattern,Type
+Pattern,Use
+Pump,Capacity
+Pump,created_time
+Pump,data_set_id
+Pump,description
+Pump,Diameter
+Pump,external_id
+Pump,geo_location
+Pump,labels
+Pump,last_updated_time
+Pump,Manufacturer
+Pump,Motor_Amperage
+Pump,Motor_Model
+Pump,Motor_Power
+Pump,Motor_Voltage
+Pump,name
+Pump,parent_external_id
+Pump,parent_id
+Pump,Pump_Feature
+Pump,Pump_Series
+Pump,Pump_Type
+Pump,root_id
+Pump,source
+Pump,Type
+Separator,created_time
+Separator,data_set_id
+Separator,description
+Separator,external_id
+Separator,geo_location
+Separator,labels
+Separator,last_updated_time
+Separator,name
+Separator,parent_external_id
+Separator,parent_id
+Separator,root_id
+Separator,source
+Separator,Type
+Skid,created_time
+Skid,data_set_id
+Skid,description
+Skid,external_id
+Skid,geo_location
+Skid,labels
+Skid,last_updated_time
+Skid,name
+Skid,parent_external_id
+Skid,parent_id
+Skid,root_id
+Skid,source
+Skid,Type
+Tank,created_time
+Tank,data_set_id
+Tank,description
+Tank,external_id
+Tank,geo_location
+Tank,labels
+Tank,last_updated_time
+Tank,Manufacturer
+Tank,Model
+Tank,name
+Tank,parent_external_id
+Tank,parent_id
+Tank,root_id
+Tank,source
+Tank,Type
+Valve,created_time
+Valve,data_set_id
+Valve,description
+Valve,external_id
+Valve,geo_location
+Valve,labels
+Valve,last_updated_time
+Valve,name
+Valve,parent_external_id
+Valve,parent_id
+Valve,root_id
+Valve,source
+Valve,Type
+Vapor Recovery Unit,created_time
+Vapor Recovery Unit,data_set_id
+Vapor Recovery Unit,description
+Vapor Recovery Unit,external_id
+Vapor Recovery Unit,geo_location
+Vapor Recovery Unit,labels
+Vapor Recovery Unit,last_updated_time
+Vapor Recovery Unit,name
+Vapor Recovery Unit,parent_external_id
+Vapor Recovery Unit,parent_id
+Vapor Recovery Unit,root_id
+Vapor Recovery Unit,Source
+Vapor Recovery Unit,source
+Vapor Recovery Unit,Type
+Vessel,created_time
+Vessel,data_set_id
+Vessel,description
+Vessel,external_id
+Vessel,geo_location
+Vessel,labels
+Vessel,last_updated_time
+Vessel,Manufacturer
+Vessel,Model
+Vessel,name
+Vessel,parent_external_id
+Vessel,parent_id
+Vessel,root_id
+Vessel,source
+Vessel,Type
+Well,ALS_date
+Well,Class
+Well,created_time
+Well,CRS
+Well,data_set_id
+Well,description
+Well,external_id
+Well,geo_location
+Well,GL
+Well,KB
+Well,labels
+Well,last_updated_time
+Well,name
+Well,parent_external_id
+Well,parent_id
+Well,root_id
+Well,RT
+Well,source
+Well,Status_date
+Well,SurfaceCoordX
+Well,SurfaceCoordY
+Well,SurfaceLatitude
+Well,SurfaceLongitude
+Well,TD
+Well,Type
+Well,Type_date
+Well,Well_ALS
+Well,Well_Design
+Well,Well_status
+Well,Well_Status
+Well,Well_type
